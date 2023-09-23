@@ -29,7 +29,7 @@ const ALPHA : u8 = 255;
 //output_settings
 const FRAME_LEN : u32 = 200;
 const FRAME_RATE : u32 = 30;
-const SAVE : bool = true;
+const SAVE : bool = false;
 const OUTPUT_DISCRIPTION : &str = "random_test";
 
 //nannou Model
